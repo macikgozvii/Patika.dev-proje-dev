@@ -19,11 +19,10 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 Big-O gösterimi (n^2)
 
-Worst case: O(n^2)
-best case: O(n^2)
-average case: O(n^2)
+Worst Case:[22,27,16,18,6,2]
+Best Case:[2,22,27,16,18,6]
+Average Case: [22,27,2,16,18,6]
 
-sıralama sonrası 18 average case
 -----
 
 [2,3,5,8,7,9,4,15,6]
